@@ -9,7 +9,7 @@ const flashcards = [
     },
     {
 
-        question: "Qual é a capital do Pará?",
+        question: "Porque é necessário estudar?",
         answer: "sem resposta"
     },
     {
