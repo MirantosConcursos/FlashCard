@@ -9,8 +9,8 @@ const flashcards = [
     },
     {
 
-        question: "Qual é a capital do Brasil?",
-        answer: "Brasília"
+        question: "Qual é a capital do Pará?",
+        answer: "sem resposta"
     },
     {
 
