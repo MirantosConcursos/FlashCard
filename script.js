@@ -1,19 +1,15 @@
 const flashcards = [
     {
-        question: " (MIRANTOS) - Com base na Lei 10.826/2003 - Dispõe sobre registro, posse e comercialização de armas de fogo e munição, sobre o Sistema Nacional de Armas – SINARM,  O SINARM é responsável por:
-",
-        answer: "Identificar as características e a propriedade de armas de fogo, mediante cadastro.
-"
+        question: "Com base na Lei 10.826/2003 - Dispõe sobre registro, posse e comercialização de armas de fogo e munição, sobre o Sistema Nacional de Armas – SINARM,  O SINARM é responsável por:",
+        answer: "Identificar as características e a propriedade de armas de fogo, mediante cadastro."
     },
     {
-        question: "MIRANTOS) - Com base na Lei 10.826/2003 - Dispõe sobre registro, posse e comercialização de armas de fogo e munição, sobre o Sistema Nacional de Armas – SINARM,  È competência do SINARM",
-        answer: "cadastrar as transferências de propriedade, extravio, furto, roubo e outras ocorrências suscetíveis de alterar os dados cadastrais.
-"
+        question: "Com base na Lei 10.826/2003 - Dispõe sobre registro, posse e comercialização de armas de fogo e munição, sobre o Sistema Nacional de Armas – SINARM,  È competência do SINARM",
+        answer: "cadastrar as transferências de propriedade, extravio, furto, roubo e outras ocorrências suscetíveis de alterar os dados cadastrais."
     },
     {
 
-        question: "(MIRANTOS) - Com base na Lei 10.826/2003 - Dispõe sobre registro, posse e comercialização de armas de fogo e munição, sobre o Sistema Nacional de Armas – SINARM. Quem é responsável por realizar os testes de marcação e raiamento do cano da arma para cadastro no SINARM:
-",
+        question: "Com base na Lei 10.826/2003 - Dispõe sobre registro, posse e comercialização de armas de fogo e munição, sobre o Sistema Nacional de Armas – SINARM. Quem é responsável por realizar os testes de marcação e raiamento do cano da arma para cadastro no SINARM:",
         answer: " O fabricante da arma"
     },
     {
