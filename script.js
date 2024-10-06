@@ -95,7 +95,150 @@ const flashcards = [
     {
         question: "Sobre o Sistema Nacional de Armas – SINARM. A autorização de compra de arma de fogo É: ",
         answer: "Em nome do requerente e para a arma indicada, sendo intransferível."
-    }
+    },
+    { 
+        question: "Sobre o Sistema Nacional de Armas – SINARM. A autorização de compra de arma de fogo É: ",
+        answer: "Em nome do requerente e para a arma indicada, sendo intransferível."
+     },
+    { 
+        question: "Sobre o Sistema Nacional de Armas – SINARM. A autorização de compra de arma de fogo É: ",
+        answer: "Em nome do requerente e para a arma indicada, sendo intransferível."
+        
+     },
+    { 
+        question: "Sobre o Sistema Nacional de Armas – SINARM. A autorização de compra de arma de fogo É: ",
+        answer: "Em nome do requerente e para a arma indicada, sendo intransferível."
+     },
+    { 
+        question: "Sobre o Sistema Nacional de Armas – SINARM. A autorização de compra de arma de fogo É: ",
+        answer: "Em nome do requerente e para a arma indicada, sendo intransferível."
+
+     },
+    { 
+        question: "Sobre o Sistema Nacional de Armas – SINARM. A autorização de compra de arma de fogo É: ",
+        answer: "Em nome do requerente e para a arma indicada, sendo intransferível."
+
+     },
+    { 
+        question: "Sobre o Sistema Nacional de Armas – SINARM. A autorização de compra de arma de fogo É: ",
+        answer: "Em nome do requerente e para a arma indicada, sendo intransferível."
+
+     },
+    { 
+        question: "Sobre o Sistema Nacional de Armas – SINARM. A autorização de compra de arma de fogo É: ",
+        answer: "Em nome do requerente e para a arma indicada, sendo intransferível."
+
+     },
+    { 
+        question: "Sobre o Sistema Nacional de Armas – SINARM. A autorização de compra de arma de fogo É: ",
+        answer: "Em nome do requerente e para a arma indicada, sendo intransferível."
+
+     },
+    { 
+        question: "Sobre o Sistema Nacional de Armas – SINARM. A autorização de compra de arma de fogo É: ",
+        answer: "Em nome do requerente e para a arma indicada, sendo intransferível."
+
+     },
+    { 
+        question: "Sobre o Sistema Nacional de Armas – SINARM. A autorização de compra de arma de fogo É: ",
+        answer: "Em nome do requerente e para a arma indicada, sendo intransferível."
+
+     },
+    { 
+        question: "Sobre o Sistema Nacional de Armas – SINARM. A autorização de compra de arma de fogo É: ",
+        answer: "Em nome do requerente e para a arma indicada, sendo intransferível."
+
+     },
+    { 
+        question: "Sobre o Sistema Nacional de Armas – SINARM. A autorização de compra de arma de fogo É: ",
+        answer: "Em nome do requerente e para a arma indicada, sendo intransferível."
+
+     },
+    { 
+        question: "Sobre o Sistema Nacional de Armas – SINARM. A autorização de compra de arma de fogo É: ",
+        answer: "Em nome do requerente e para a arma indicada, sendo intransferível."
+
+     },
+    { 
+        question: "Sobre o Sistema Nacional de Armas – SINARM. A autorização de compra de arma de fogo É: ",
+        answer: "Em nome do requerente e para a arma indicada, sendo intransferível."
+
+     },
+    { 
+        question: "Sobre o Sistema Nacional de Armas – SINARM. A autorização de compra de arma de fogo É: ",
+        answer: "Em nome do requerente e para a arma indicada, sendo intransferível."
+
+     },
+    { 
+        question: "Sobre o Sistema Nacional de Armas – SINARM. A autorização de compra de arma de fogo É: ",
+        answer: "Em nome do requerente e para a arma indicada, sendo intransferível."
+
+     },
+    { 
+        question: "Sobre o Sistema Nacional de Armas – SINARM. A autorização de compra de arma de fogo É: ",
+        answer: "Em nome do requerente e para a arma indicada, sendo intransferível."
+
+     },
+    { 
+        question: "Sobre o Sistema Nacional de Armas – SINARM. A autorização de compra de arma de fogo É: ",
+        answer: "Em nome do requerente e para a arma indicada, sendo intransferível."
+
+     },
+    { 
+        question: "Sobre o Sistema Nacional de Armas – SINARM. A autorização de compra de arma de fogo É: ",
+        answer: "Em nome do requerente e para a arma indicada, sendo intransferível."
+
+     },
+    { 
+        question: "Sobre o Sistema Nacional de Armas – SINARM. A autorização de compra de arma de fogo É: ",
+        answer: "Em nome do requerente e para a arma indicada, sendo intransferível."
+
+     },
+    { 
+        question: "Sobre o Sistema Nacional de Armas – SINARM. A autorização de compra de arma de fogo É: ",
+        answer: "Em nome do requerente e para a arma indicada, sendo intransferível."
+
+     },
+    { 
+        question: "Sobre o Sistema Nacional de Armas – SINARM. A autorização de compra de arma de fogo É: ",
+        answer: "Em nome do requerente e para a arma indicada, sendo intransferível."
+
+     },
+    { 
+        question: "Sobre o Sistema Nacional de Armas – SINARM. A autorização de compra de arma de fogo É: ",
+        answer: "Em nome do requerente e para a arma indicada, sendo intransferível."
+
+     },
+    { 
+        question: "Sobre o Sistema Nacional de Armas – SINARM. A autorização de compra de arma de fogo É: ",
+        answer: "Em nome do requerente e para a arma indicada, sendo intransferível."
+
+     },
+    { 
+        question: "Sobre o Sistema Nacional de Armas – SINARM. A autorização de compra de arma de fogo É: ",
+        answer: "Em nome do requerente e para a arma indicada, sendo intransferível."
+
+     },
+    { 
+        question: "Sobre o Sistema Nacional de Armas – SINARM. A autorização de compra de arma de fogo É: ",
+        answer: "Em nome do requerente e para a arma indicada, sendo intransferível."
+
+     },
+    { 
+        question: "Sobre o Sistema Nacional de Armas – SINARM. A autorização de compra de arma de fogo É: ",
+        answer: "Em nome do requerente e para a arma indicada, sendo intransferível."
+
+     },
+    { 
+        question: "Sobre o Sistema Nacional de Armas – SINARM. A autorização de compra de arma de fogo É: ",
+        answer: "Em nome do requerente e para a arma indicada, sendo intransferível."
+
+     },
+    { 
+        question: "Sobre o Sistema Nacional de Armas – SINARM. A autorização de compra de arma de fogo É: ",
+        answer: "Em nome do requerente e para a arma indicada, sendo intransferível."
+
+            
 ];
 
 let currentCardIndex = 0;
